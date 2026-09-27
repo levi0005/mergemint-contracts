@@ -150,3 +150,8 @@ snapshots.
 Contributions are welcome. Every PR should be tied to an issue, so start by opening or picking one
 up, then read [CONTRIBUTING.md](CONTRIBUTING.md). If you think you've found a security issue in the
 contract, read [docs/security.md](docs/security.md) first.
+
+## Handsoff notes
+
+<!-- handsoff-issue-862 -->
+- #862: [Contract] Add bounty description hash field
