@@ -153,5 +153,5 @@ contract, read [docs/security.md](docs/security.md) first.
 
 ## Handsoff notes
 
-<!-- handsoff-issue-862 -->
-- #862: [Contract] Add bounty description hash field
+<!-- handsoff-issue-869 -->
+- #869: [Backend] Request ID middleware
